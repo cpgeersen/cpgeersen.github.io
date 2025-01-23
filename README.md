@@ -27,8 +27,8 @@
   * [Standard Ebooks](https://standardebooks.org/) - Catalog of high quality public domain ebooks created by volunteers.
 
 ## Computer Specs
-  | Computer Parts |  |
+  | Computer Parts | |
   | ----- | ----- |
-  | CPU  | AMD Ryzen 9 5900X 12-Core |
+  | CPU | AMD Ryzen 9 5900X 12-Core |
   | Memory | 32GB DDR4 3600MHz |
   | GPU | EVGA NVIDA 3080 |
